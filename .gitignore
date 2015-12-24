@@ -1,4 +1,5 @@
-blib/*
-lib/*.pir
-Makefile
 *~
+Makefile
+blib/*
+ext/**/.precomp
+lib/*.pir
